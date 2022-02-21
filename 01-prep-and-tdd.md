@@ -20,6 +20,7 @@
 
 ### ways to  create a Callback
 1. Callback function
+
  ```js
 const message = function () {
   console.log("This message is shown after 3 seconds");
@@ -27,19 +28,20 @@ const message = function () {
 
 setTimeout(message, 3000); 
 ```
+
 2. Using anonymous function its a function without a name in js
+
 ```js
 setTimeout(function () {
   console.log("This message is shown after 5 seconds");
 }, 5000);
-
 ```
+
 3. callback as an arrow function
 ```js
 setTimeout(() => {
   console.log("This message is shown after 6 seconds");
 }, 6000);
-
 ```
 
 ## 3. JS Promises
@@ -49,6 +51,7 @@ setTimeout(() => {
 *we did use promises to improve code readability, asynchronous operation handling, flow of control definition in asynchronous logic, and error management.*
 
 #### **A Promise exists in four states:**
+
 1. **fulfilled:** The promise-related action was successful.
 2. **rejected:** The promise-related action failed.
 3. **pending:** The promise is still pending, it has not yet been fulfilled or rejected.
@@ -57,12 +60,14 @@ setTimeout(() => {
 `The Promise constructor can be used to create a promise.`
 
 **Syntax:**
+
 ```
 var promise = new Promise(function(resolve, reject){
      //do something
 });
 
 ```
+
 **Parameters**
 
 * The promise constructor only accepts one argument, which is a callback function (and that callback function is also referred as an anonymous function too).
@@ -92,7 +97,8 @@ var promise = new Promise(function(resolve, reject){
 
 *Testing is the process of ensuring that a program receives the correct input and produces the desired output and side effects. Specifications are used to define these right inputs, outputs, and side effects. You may have come across testing files with the `filename.spec.js` naming pattern. The spec is an abbreviation for standard. It is the file in which we declare or assert what our code should do and then test it to ensure that it does so.*
 
-**When it comes to testing, we have two options:** 
+**When it comes to testing, we have two options:**
+
 1. **manual testing:** *Manual testing is the practice of checking your application or code from the standpoint of the user. Navigating around the browser or application in an attempt to test the functioning and uncover bugs.* 
 2. **automated testing:** *automated-testing entails writing code that tests to see if other code works. Unlike manual testing, the specifications are consistent from test to test. The most significant advantage is the ability to test numerous things much more quickly.*
 
@@ -108,6 +114,7 @@ var promise = new Promise(function(resolve, reject){
 *to run our test script we did use: `npm run test`.*
 
 ### **How Do We Write a Test?**
+
 *Tests are just functions that take a few arguments. We can use either `it()` or `test()` to run our test.*
 
 
