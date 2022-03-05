@@ -9,3 +9,5 @@
 |middleware|[read02 link](https://hala277.github.io/advanced-js-reading-notes/02-middleware)|
 |Data Modeling|[read03 link](https://hala277.github.io/advanced-js-reading-notes/03-DataModeling)|
 |Linked List|[read04 link](https://hala277.github.io/advanced-js-reading-notes/04-LinkedList)|
+|Linked List|[read05 link](https://hala277.github.io/advanced-js-reading-notes/04-LinkedList)|
+|Authentication|[read06 link](https://hala277.github.io/advanced-js-reading-notes/06-Authentication)|
