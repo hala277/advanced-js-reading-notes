@@ -71,10 +71,10 @@
 * secretOrPrivateKey is a string, buffer, or object containing either the secret for HMAC algorithms or the PEM encoded private key for RSA and ECDSA. In case of a private key with passphrase an object { key, passphrase } can be used (based on crypto documentation), in this case be sure you pass the algorithm option.
 
 ### resource
-* (JWTs Explained)[https://www.youtube.com/watch?v=926mknSW9Lo] 
-* (Intro to JWT)[https://jwt.io/introduction/] 
-* (Are JWTs Secure?)[https://stackoverflow.com/questions/27301557/if-you-can-decode-jwt-how-are-they-secure] 
-* (npm jsonwebtoken docs)[https://www.npmjs.com/package/jsonwebtoken] 
+* [JWTs Explained](https://www.youtube.com/watch?v=926mknSW9Lo) 
+* [Intro to JWT](https://jwt.io/introduction/)
+* [Are JWTs Secure?](https://stackoverflow.com/questions/27301557/if-you-can-decode-jwt-how-are-they-secure)
+* [npm jsonwebtoken docs](https://www.npmjs.com/package/jsonwebtoken)
 
 
 
