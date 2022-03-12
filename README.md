@@ -13,3 +13,4 @@
 |Authentication|[read06 link](https://hala277.github.io/advanced-js-reading-notes/06-Authentication)|
 |Bearer Authorization|[read07 link](https://hala277.github.io/advanced-js-reading-notes/07-BearerAuthorization)|
 |Access Control (ACL)|[read08 link](https://hala277.github.io/advanced-js-reading-notes/08-ACL)|
+|Authorization/Authentication)|[read09 link](https://hala277.github.io/advanced-js-reading-notes/09-Authorization-Authentication)|
