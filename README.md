@@ -16,3 +16,4 @@
 |Authorization/Authentication)|[read09 link](https://hala277.github.io/advanced-js-reading-notes/09-Authorization-Authentication)|
 |Stacks and Queues)|[read10 link](https://hala277.github.io/advanced-js-reading-notes/StacksandQueues)|
 |Event Driven Applications)|[read11 link](https://hala277.github.io/advanced-js-reading-notes/11-EventDrivenApplications)|
+|Socket.io)|[read12 link](https://hala277.github.io/advanced-js-reading-notes/12-Socket-io)|
