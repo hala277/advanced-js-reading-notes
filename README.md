@@ -19,4 +19,4 @@
 |Socket.io|[read12 link](https://hala277.github.io/advanced-js-reading-notes/12-Socket-io)|
 |Message Queues|[read13 link](https://hala277.github.io/advanced-js-reading-notes/13-Message-Queues)|
 |Trees|[read14 link](https://hala277.github.io/advanced-js-reading-notes/14-Trees)|
-|AWS: Cloud Servers|[read15 link](https://hala277.github.io/advanced-js-reading-notes/15-AWS)|
+|AWS: Cloud Servers|[read15 link](https://hala277.github.io/advanced-js-reading-notes/15-AWS)| 
