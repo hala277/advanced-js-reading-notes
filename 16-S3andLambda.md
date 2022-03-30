@@ -85,7 +85,7 @@ A Content Delivery Network (CDN) is a geographically distributed group of server
 ![CDN](https://cyberhoot.com/wp-content/uploads/2020/03/What-is-Content-Delivery-Network-1024x647.jpg)
 
 ### resources
-+ ![AWS S3](https://aws.amazon.com/s3/)
-+ ![AWS Lambda Basics](https://www.serverless.com/aws-lambda)
-+ ![AWS Lambda Functions](https://aws.amazon.com/lambda/)
-+ ![CDN](https://cyberhoot.com/cybrary/content-delivery-network-cdn/)
++ [AWS S3](https://aws.amazon.com/s3/)
++ [AWS Lambda Basics](https://www.serverless.com/aws-lambda)
++ [AWS Lambda Functions](https://aws.amazon.com/lambda/)
++ [CDN](https://cyberhoot.com/cybrary/content-delivery-network-cdn/)
