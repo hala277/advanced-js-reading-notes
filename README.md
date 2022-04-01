@@ -21,3 +21,4 @@
 |Trees|[read14 link](https://hala277.github.io/advanced-js-reading-notes/14-Trees)|
 |AWS: Cloud Servers|[read15 link](https://hala277.github.io/advanced-js-reading-notes/15-CloudServers)| 
 |AWS: S3 and Lambda|[read16 link](https://hala277.github.io/advanced-js-reading-notes/16-S3andLambda)| 
+|AWS: API, Dynamo and Lambda|[read17 link](https://hala277.github.io/advanced-js-reading-notes/17-APIDynamoAndLambda)| 
