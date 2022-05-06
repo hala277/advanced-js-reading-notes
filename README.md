@@ -25,4 +25,5 @@
 |Component Based UI|[read26 link](https://hala277.github.io/advanced-js-reading-notes/18-ComponentBasedUI)| 
 |useState() Hook|[read27 link](https://hala277.github.io/advanced-js-reading-notes/27-useState-Hook)| 
 |useEffect()|[read28 link](https://hala277.github.io/advanced-js-reading-notes/28-useEffect)| 
+|Advanced State with Reducers|[read29 link](https://hala277.github.io/advanced-js-reading-notes/29-AdvancedStatewithReducers)| 
 
