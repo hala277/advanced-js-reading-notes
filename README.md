@@ -28,4 +28,5 @@
 |Advanced State with Reducers|[read29 link](https://hala277.github.io/advanced-js-reading-notes/29-AdvancedStatewithReducers)| 
 |Hash Tables|[read30 link](https://hala277.github.io/advanced-js-reading-notes/30-HashTables)| 
 |Context API|[read31 link](https://hala277.github.io/advanced-js-reading-notes/31-ContextAPI)| 
+|Context API 2|[read32 link](https://hala277.github.io/advanced-js-reading-notes/32-ContextAPI2)| 
 
