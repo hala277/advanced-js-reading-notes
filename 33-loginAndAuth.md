@@ -1,4 +1,4 @@
-# <Login /> and <Auth /> 
+# Login and Auth 
 
 ## What is Role-Based Access Control (RBAC)?
 Role-based access control (RBAC) is a technique of advanced access control that restricts network access based on a person's role within an organization. The levels of access that employees have to the network are referred to as jobs in RBAC.
