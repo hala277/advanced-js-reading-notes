@@ -32,4 +32,5 @@
 |Login  and Auth |[read33 link](https://hala277.github.io/advanced-js-reading-notes/33-loginAndAuth)| 
 |API Integration |[read34 link](https://hala277.github.io/advanced-js-reading-notes/34-APIIntegration)| 
 |Graphs|[read35 link](https://hala277.github.io/advanced-js-reading-notes/35-Graphs)| 
+|Application State with Redux|[read35 link](https://hala277.github.io/advanced-js-reading-notes/36-ApplicationStatewithRedux)| 
 
