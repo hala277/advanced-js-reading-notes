@@ -34,4 +34,6 @@
 |Graphs|[read35 link](https://hala277.github.io/advanced-js-reading-notes/35-Graphs)| 
 |Application State with Redux|[read36 link](https://hala277.github.io/advanced-js-reading-notes/36-ApplicationStatewithRedux)| 
 |Redux - Combined Reducers|[read37 link](https://hala277.github.io/advanced-js-reading-notes/37-CombinedReducers)| 
+|Redux - Asynchronous Actions|[read38 link](https://hala277.github.io/advanced-js-reading-notes/38-AsynchronousActions)| 
+
 
