@@ -38,5 +38,6 @@
 |Redux - Additional Topics|[read39 link](https://hala277.github.io/advanced-js-reading-notes/39-AdditionalTopics)| 
 |React Native|[read41 link](https://hala277.github.io/advanced-js-reading-notes/41-ReactNative)| 
 |Ethics in Tech|[read42 link](https://hala277.github.io/advanced-js-reading-notes/42-Ethics)| 
+|Open-Source Software Contribution|[read43 link](https://hala277.github.io/advanced-js-reading-notes/43-OpenSourceSoftwareContribution)| 
 
 
